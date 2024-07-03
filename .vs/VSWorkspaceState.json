@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\hw",
+    "\\hw\\hdl",
+    "\\hw\\hdl\\mmu"
+  ],
+  "SelectedNode": "\\hw\\hdl\\mmu\\tlb_controller.sv",
+  "PreviewInSolutionExplorer": false
+}
