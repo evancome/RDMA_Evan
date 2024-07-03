@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/cyt_logo_dark.png" width = 220>
   <source media="(prefers-color-scheme: light)" srcset="img/cyt_logo_light.png" width = 220>
@@ -200,3 +201,7 @@ $ make
 ## Additional requirements
 
 If networking services are used, to generate the design you will need a valid [UltraScale+ Integrated 100G Ethernet Subsystem](https://www.xilinx.com/products/intellectual-property/cmac_usplus.html) license set up in `Vivado`/`Vitis`.
+=======
+# RDMA_Evan
+RDMA_Evan
+>>>>>>> 1698c611233d30c022f9279bc8057aaf686fe821
